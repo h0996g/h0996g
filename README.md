@@ -6,7 +6,7 @@
     <em>Mobile Application Developer | Flutter Specialist</em>
   </p>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Mobile+Application+Developer;Flutter+Development+Specialist;Master's+in+Computer+Science;Building+Digital+Solutions)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Mobile+Application+Developer;Flutter+Development+Specialist;Master's+in+Computer+Science;Building+Digital+Solutions)
 </div>
 
 ---
